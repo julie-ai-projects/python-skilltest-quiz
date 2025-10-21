@@ -36,5 +36,6 @@
 
 ---
 
-## ✨ Пример использования
-![demo](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/gradio/chat-interface.png)
+## 🧠 Live Demo  
+You can try the interactive Python Skill Test directly on Hugging Face:  
+👉 [Open the App](https://huggingface.co/spaces/julie-s04/python-skilltest-quiz)
